@@ -1,5 +1,5 @@
 # Project-Bellum
-A project made by Pisay students to combat boredom with this amazing fighting game.
+A project made by Pisay students to combat boredom with this amazing RPG text-based game. In this game, you will progress through a story that you can control with choices.
 # How To Install
 1. Download the project
 2. Extract the zip file
